@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the merged dataset
-data = pd.read_csv('combined_data_for_dashboard (1).csv')
+data = pd.read_csv('dashboard/combined_data_for_dashboard (1).csv')
 
 # Dashboard title
 st.title('E-commerce Data Analysis Dashboard')
