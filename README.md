@@ -26,5 +26,5 @@ cd dashboard
 4. Run with Streamlit
 
 ```
-streamlit run Dashboard.py
+streamlit run dashboard.py
 ```
